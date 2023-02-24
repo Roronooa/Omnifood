@@ -1,2 +1,2 @@
 # First project built following Jonas Schmedtmann's Udemy course.
-HTML/CSS
+HTML/CSS and little JavaScript
